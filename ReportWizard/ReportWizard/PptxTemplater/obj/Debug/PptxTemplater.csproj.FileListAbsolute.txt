@@ -1,0 +1,9 @@
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\bin\Debug\PptxTemplater.XML
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\bin\Debug\PptxTemplater.dll
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\bin\Debug\PptxTemplater.pdb
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\bin\Debug\DocumentFormat.OpenXml.dll
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\bin\Debug\DocumentFormat.OpenXml.xml
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\obj\Debug\PptxTemplater.csprojAssemblyReference.cache
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\obj\Debug\PptxTemplater.csproj.CopyComplete
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\obj\Debug\PptxTemplater.dll
+F:\New folder\PPT_AUTO\New folder\PptxTemplater\PptxTemplater\obj\Debug\PptxTemplater.pdb
